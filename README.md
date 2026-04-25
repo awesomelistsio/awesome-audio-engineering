@@ -142,3 +142,5 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+- [KeyboardTester.click Audio Suite](https://keyboardtester.click/headphone_speaker_tester_index.php) - Free browser-based diagnostic tools: 20 Hz–20 kHz log sweep, pitch detector with cents accuracy, hearing-age (mosquito tone) test, L/R speaker check, mic test, dB SPL meter. Built on Web Audio API; open source.
