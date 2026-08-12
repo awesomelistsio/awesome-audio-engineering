@@ -76,6 +76,7 @@
 - [Waves Audio](https://www.waves.com/) – Extensive collection of studio and live audio plugins.
 - [Slate Digital](https://slatedigital.com/) – Analog-modeled plugins and virtual mixing systems.
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) – Free dynamic EQ plugin widely used in mixing.
+- [VocalCut](https://vocalcut.com) - A collection of 32 free, client-side browser-based audio tools and utilities running entirely locally.
 
 ## Live Sound & Broadcasting
 
