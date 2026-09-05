@@ -1,4 +1,4 @@
-# Awesome Audio Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Audio Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -128,10 +128,10 @@
 
 ## Related Awesome Lists
 
-- [Awesome DSP](https://github.com/awesomelistsio/awesome-dsp)
-- [Awesome Music Technology](https://github.com/awesomelistsio/awesome-music-technology)
-- [Awesome Open Source Audio](https://github.com/awesomelistsio/awesome-open-source-audio)
-- [Awesome Python](https://github.com/awesomelistsio/awesome-python)
+- [Awesome DSP](https://github.com/brandonhimpfen/awesome-dsp)
+- [Awesome Music Technology](https://github.com/brandonhimpfen/awesome-music-technology)
+- [Awesome Open Source Audio](https://github.com/brandonhimpfen/awesome-open-source-audio)
+- [Awesome Python](https://github.com/brandonhimpfen/awesome-python)
 
 ## Contribute
 
